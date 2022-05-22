@@ -243,7 +243,7 @@ color: var(--secondary-color);
 .wrapper__sidebar-cart {
   background-color: var(--bodyNav);
   border-radius: 5px;
-  padding: 50px;
+  padding: 20px;
   display: inherit;
   flex-direction: column;
   align-items: center;
